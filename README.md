@@ -1,7 +1,3 @@
-
-```
-Ref to Docker Images Developed for Kubernetes Security Assessments
-```
 _Attackk8s is a glibc compatible Alpine Linux based image designed for Kubernetes security assessments. It builds on top of madhuakula/hacker-container_ & _purple-kali is ~170 MB and was created with only the top common tools_
 
 
